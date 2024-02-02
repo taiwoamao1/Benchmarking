@@ -2,6 +2,7 @@
 Benchmarking project
 
 ## Table of contents
+---
 - [project overview](#project-overview)
 - [Data sources](#data-sources)
 - [Tools](#tools)
@@ -13,6 +14,7 @@ Benchmarking project
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insight into the company's performace with other companies. Analysing the financial and non-financial data, I seek to identify the trends and make  recommendations from  data derived from different sources. This will help gain an in-depth understanding of the company's performance.
 
@@ -49,7 +51,7 @@ Encourage the company to increase revenue generated through the expansion of sto
 ### Limitations 
 Limited with time constraints and availability of some data. 
 
-### R
+
 
 
 
