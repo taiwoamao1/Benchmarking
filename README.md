@@ -18,9 +18,10 @@ Benchmarking project
 
 This data analysis project aims to provide insight into the company's performace with other companies. Analysing the financial and non-financial data, I seek to identify the trends and make  recommendations from  data derived from different sources. This will help gain an in-depth understanding of the company's performance.
 
-![poster benchmarking](https://github.com/taiwoamao1/Benchmarking/assets/112169247/bc9bfb04-faeb-4071-8192-94dc7fa25b6f)
 
 
+
+![Submit taiwo](https://github.com/taiwoamao1/Benchmarking/assets/112169247/647cfc2e-cbdc-4853-a72b-9c216eab74e1)
 
 ### Data sources
 The data gathered which contains information about the financial and non-financial performance of different  companies, were sourced from different companies' websites, Statista and FAME.
