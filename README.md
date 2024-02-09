@@ -3,7 +3,7 @@ Benchmarking project
 
 ## Table of contents
 ---
-- [project overview](#project-overview)
+- [Project overview](#project-overview)
 - [Data sources](#data-sources)
 - [Tools](#tools)
 - [Data cleaning](#data-cleaning)
